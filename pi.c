@@ -8,7 +8,7 @@
  * * Revision:		none
  * * Compiler: 		gcc -lpthread pi.c
  * *
- * * Author: 		Wayne
+ * * Author: 		Mayone
  * * Organization:	CoDesign 
 
  ******************************************************************************/
