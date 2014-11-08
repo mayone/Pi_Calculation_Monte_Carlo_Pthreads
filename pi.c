@@ -27,7 +27,7 @@ typedef struct thread_data {
 	long long num_tosses;
 }thread_data;
 
-void *toss_thread(void *tosses_of_thread_void);
+void *toss_thread(void *threadD);
 
 int main(int argc, char const *argv[])
 {
